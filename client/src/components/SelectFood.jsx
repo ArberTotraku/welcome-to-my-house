@@ -10,6 +10,9 @@ const SelectFood = (props) => {
         <input type="search" placeholder='Kerko ushqimin'/>
 <button>Zgjidh te preferuaren</button>
 
+
+<button>Shikoni te gjitha ushqimet</button>
+
     </div>
   )
 }
